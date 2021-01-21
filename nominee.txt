@@ -1,0 +1,5 @@
+Piyush Namdeo Thorve,piyush2345@gmail.com,425678965423,12/5/1998,23,P719392T1998
+Nishad Santosh Vispute,nishad2311@gmail.com,123456781324,23/11/2000,21,N310047V2000
+Madhuri Santosh Vispute,mad@gmail.com,123456789876,04/11/1969,52,M499660V1969
+Nirupam Bharat Gangurde,niru_the_great@gmail.com,1234567898765,12/3/1994,27,N724727G1994
+Shivam Bhausaheb Gore,shivamgore1900@gmail.com,567898231234,24/5/1988,33,S882706G1988
