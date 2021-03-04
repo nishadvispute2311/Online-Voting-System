@@ -1,0 +1,262 @@
+Welcome To The Online Voting System
+
+                ================================================================================================================
+
+                 1 : Voter Login                 2 : Admin Panel                 3 : Nominee Info        4 : Voter Registration
+                 5 : Nominee Registration        8 : Winner Announcement Date    7 : Exit
+
+                ================================================================================================================
+
+Enter your User Choice : 2
+Enter Password : ***********
+
+            =======================================================================================================================
+              1 : Voter Details            2 : Nominee Details       3 : Election Record          4 : Vote Status         5 : Exit
+            =======================================================================================================================
+
+Enter your Admin Choice : 1
+Enter Voter ID : 975646K2001
+
+                _______________________________________________________________________________________
+
+
+                        Name : Kaustubh Mukund Vispute           Email : kaustubhm231@gmail.com
+                        Adhar Number : 425178942678              Date Of Birth : 9/11/2001
+                        Age : 20                                 Voter Id : 975646K2001
+                        Status : Not voted
+
+                _______________________________________________________________________________________
+
+Enter your Admin Choice : 2
+Enter Nominee ID : S882706G1988
+
+                _______________________________________________________________________________________
+
+
+                        Name : Shivam Bhausaheb Gore             Email : shivamgore1900@gmail.com
+                        Adhar Number : 567898231234              Date Of Birth : 24/5/1988
+                        Age : 33                                 Nominee Id : S882706G1988
+
+                _______________________________________________________________________________________
+
+Enter your Admin Choice : 3
+                                     CURRENT ELECTION RECORD
+                        __________________________________________________
+
+                                 Particulars                   Counts
+                        __________________________________________________
+
+                                No. Of Voters                   17
+                                No. Of Nominees                 6
+                                No. Of Voters Voted             0
+                                No. Of Voters Remaining         17
+                        __________________________________________________
+
+Enter your Admin Choice : 4
+
+                                       CURRENT VOTE STATUS
+                        __________________________________________________
+
+                               Votes                     Name
+                        __________________________________________________
+
+                                0               Piyush Namdeo Thorve
+                                0               Nishad Santosh Vispute
+                                0               Madhuri Santosh Vispute
+                                0               Nirupam Bharat Gangurde
+                                0               Shivam Bhausaheb Gore
+                                0               Yash Nitin Ghorpade
+                        __________________________________________________
+
+Enter your Admin Choice : 5
+
+Enter your User Choice : 1
+Enter your Voter ID : 975646K2001
+Welcome Kaustubh Mukund Vispute to the Online Voting System
+
+                        __________________________________________________
+
+                                Nominees for this year election are :
+
+                        __________________________________________________
+
+                                1       :        Piyush Namdeo Thorve
+                                2       :        Nishad Santosh Vispute
+                                3       :        Madhuri Santosh Vispute
+                                4       :        Nirupam Bharat Gangurde
+                                5       :        Shivam Bhausaheb Gore
+                                6       :        Yash Nitin Ghorpade
+                        __________________________________________________
+
+Enter the number of Nominee to whom you want to vote : *
+Thank you so much Kaustubh for your precious Vote........!!!!
+
+Enter your User Choice : 1
+Enter your Voter ID : 975646K2001
+Welcome Kaustubh Mukund Vispute to the Online Voting System
+
+                        __________________________________________________
+
+                                Nominees for this year election are :
+
+                        __________________________________________________
+
+                                1       :        Piyush Namdeo Thorve
+                                2       :        Nishad Santosh Vispute
+                                3       :        Madhuri Santosh Vispute
+                                4       :        Nirupam Bharat Gangurde
+                                5       :        Shivam Bhausaheb Gore
+                                6       :        Yash Nitin Ghorpade
+                        __________________________________________________
+
+Enter the number of Nominee to whom you want to vote : *
+Sorry Kaustubh You have Already Voted..........!!!!!!
+
+Enter your User Choice : 1
+Enter your Voter ID : 106999J2002
+Welcome Jitesh abhijit Mulchandani to the Online Voting System
+
+                        __________________________________________________
+
+                                Nominees for this year election are :
+
+                        __________________________________________________
+
+                                1       :        Piyush Namdeo Thorve
+                                2       :        Nishad Santosh Vispute
+                                3       :        Madhuri Santosh Vispute
+                                4       :        Nirupam Bharat Gangurde
+                                5       :        Shivam Bhausaheb Gore
+                                6       :        Yash Nitin Ghorpade
+                        __________________________________________________
+
+Enter the number of Nominee to whom you want to vote : *
+Thank you so much Jitesh for your precious Vote........!!!!
+
+Enter your User Choice : 2
+Enter Password : ***********
+
+            =======================================================================================================================
+              1 : Voter Details            2 : Nominee Details       3 : Election Record          4 : Vote Status         5 : Exit
+            =======================================================================================================================
+
+Enter your Admin Choice : 1
+Enter Voter ID : 975646K2001
+
+                _______________________________________________________________________________________
+
+
+                        Name : Kaustubh Mukund Vispute           Email : kaustubhm231@gmail.com
+                        Adhar Number : 425178942678              Date Of Birth : 9/11/2001
+                        Age : 20                                 Voter Id : 975646K2001
+                        Status : Voted
+
+                _______________________________________________________________________________________
+
+Enter your Admin Choice : 1
+Enter Voter ID : 719789K1999
+
+                _______________________________________________________________________________________
+
+
+                        Name : Kunal G. Chaudhary                Email : kunal8976@gmail.com
+                        Adhar Number : 145678934567              Date Of Birth : 1/2/1999
+                        Age : 22                                 Voter Id : 719789K1999
+                        Status : Not voted
+
+                _______________________________________________________________________________________
+
+Enter your Admin Choice : 2
+Enter Nominee ID : M499660V1969
+
+                _______________________________________________________________________________________
+
+
+                        Name : Madhuri Santosh Vispute           Email : mad@gmail.com
+                        Adhar Number : 123456789876              Date Of Birth : 04/11/1969
+                        Age : 52                                 Nominee Id : M499660V1969
+
+                _______________________________________________________________________________________
+
+Enter your Admin Choice : 3
+                                     CURRENT ELECTION RECORD
+                        __________________________________________________
+
+                                 Particulars                   Counts
+                        __________________________________________________
+
+                                No. Of Voters                   17
+                                No. Of Nominees                 6
+                                No. Of Voters Voted             2
+                                No. Of Voters Remaining         15
+                        __________________________________________________
+
+Enter your Admin Choice : 4
+
+                                       CURRENT VOTE STATUS
+                        __________________________________________________
+
+                               Votes                     Name
+                        __________________________________________________
+
+                                0               Piyush Namdeo Thorve
+                                1               Nishad Santosh Vispute
+                                0               Madhuri Santosh Vispute
+                                0               Nirupam Bharat Gangurde
+                                0               Shivam Bhausaheb Gore
+                                1               Yash Nitin Ghorpade
+                        __________________________________________________
+
+Enter your Admin Choice : 5
+
+Enter your User Choice : 3
+                        __________________________________________________
+
+                                Nominees for this year election are :
+
+                        __________________________________________________
+
+                                1       :        Piyush Namdeo Thorve
+                                2       :        Nishad Santosh Vispute
+                                3       :        Madhuri Santosh Vispute
+                                4       :        Nirupam Bharat Gangurde
+                                5       :        Shivam Bhausaheb Gore
+                                6       :        Yash Nitin Ghorpade
+                        __________________________________________________
+
+
+Enter your User Choice : 4
+Enter Full Name : Digvijay Badrinath Bhadane
+Enter Email : digu@gmail.com
+Enter Adhar Number : 456709321479
+Enter DOB (dd/mm/yyyy) : 17/12/2002
+Voting ID : 757852D2002
+You Have Successfully Registered as Voter.......!!!!!
+
+Enter your User Choice : 4
+Enter Full Name : Sanskar Sanjay Askar
+Enter Email : sanskar4567@gmail.com
+Enter Adhar Number : 673298160432
+Enter DOB (dd/mm/yyyy) : 1/8/2004
+Your age is below 18 years . You are not eligible for voting
+
+Enter your User Choice : 6
+
+                __________________________________________________________________________________
+
+                        The Winner Of This Year Election Will Be Announced On : 05/03/2021
+                __________________________________________________________________________________
+
+
+Enter your User Choice : 2
+Enter Password : *********
+You Have Entered Incorrect Password.....!!!!
+
+
+Enter your User Choice : 9
+Enter Valid Choice
+
+Enter your User Choice : 7
+Thank You So Much..........!!!!!!
+
+[Program finished]
